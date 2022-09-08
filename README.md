@@ -1,10 +1,9 @@
-
 # Quantum Finance
-Quantum Computing is emerging and finance could be one of first industry sectors to benefit from it. This is a new field where new ideas come out every day! That is why we create a collection to follow the up-to-now papers in this field! Welcome to join and update the collection!
+Quantum Computing is emerging and finance could be one of the first industry sectors to benefit from it. This is a new field where new ideas come out every day! That is why we create a collection to follow the up-to-now papers in this field! Welcome to join and update the collection!
 
 The paper format follows the style: Paper Title (Author) [Institution]
 
-Some papers are conducted by many institutions together, which we can only include the corresponding intisution.
+Some papers are conducted by many institutions together, and we can only include the corresponding institution.
 
 ## Table of Contents
   - [Portfolio Optimization](#portfolio-optimization)
