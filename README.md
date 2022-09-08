@@ -6,7 +6,6 @@ The paper format follows the style: Paper Title (Author) [Institution]
 
 Some papers are conducted by many institutions together, which we can only include the corresponding intisution.
 
----
 ## Table of Contents
   - [Portfolio Optimization](#portfolio-optimization)
   - [Asset Pricing](#asset-pricing)
@@ -40,8 +39,6 @@ Some papers are conducted by many institutions together, which we can only inclu
 - A Quantum Online Portfolio Optimization Algorithm (D. Lim and P. Rebentrost) [CQT - NUS]
 
 
-
----
 ## **Asset Pricing**
 
 ### **2018**
@@ -55,8 +52,6 @@ Some papers are conducted by many institutions together, which we can only inclu
 ### **2022**
 - Pricing Multi-Asset Derivatives by Finite-Difference Method on a Quantum Computer (K. Miyamoto and K. Kubo) [Osaka University]
 
----
-
 ## **Fraud Detection**
 ### **2021**
 - Anomaly detection with variational quantum generative adversarial networks (D. Herr, B. Obert, and M. Rosenkranz) (d-fine GmbH)
@@ -64,7 +59,6 @@ Some papers are conducted by many institutions together, which we can only inclu
 - Mixed Quantum-Classical Method For Fraud Detection with Quantum Feature Selection (M. Grossi et al.) [CERN, IBM]
 
 
----
 ## **Risk Management**
 ### **2019**
 - Quantum risk analysis (S. Woerner and D. J. Egger) [IBM Research - Zurich]
@@ -73,7 +67,7 @@ Some papers are conducted by many institutions together, which we can only inclu
 ### **2021**
 - Towards Quantum Advantage in Financial Market Risk using Quantum Gradient Algorithms (N. Stamatopoulos, G. Mazzola, S. Woerner, and W. J. Zeng) [Goldman Sachs, IBM]
 
----
+
 ## **Blockchain**
 ### **2018**
 - Quantum-secured blockchain (E. O. Kiktenko et al.) [Russian Quantum Center]
@@ -87,7 +81,6 @@ Some papers are conducted by many institutions together, which we can only inclu
 - Publicly verifiable quantum money from random lattices (A. B. Khesin, J. Z. Lu, and P. W. Shor) [MIT, Harvard]
 
 
----
 ## **Others**
 ### **Prediciton Financial Crashes**
 -  **[2019]** Forecasting financial crashes with quantum computing (R. Orus, S. Mugel, and E. Lizaso) [Multiverse Computing, etc]
