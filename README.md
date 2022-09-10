@@ -54,9 +54,8 @@ Some papers are conducted by many institutions together, and we can only include
 - **Constrained Quantum Optimization for Extractive Summarization on a Trapped-ion Quantum Computer.** (P. Niroula et al.) [JP Morgan Chase Bank, University of Maryland]
 
 - **A Quantum Online Portfolio Optimization Algorithm.** (D. Lim and P. Rebentrost) [CQT - NUS]
-  - give a sampling version of an existing classical online portfolio optimization algorithm.
+  - give a sampling version of an existing classical online portfolio optimization algorithm while using a sampling procedure to reduce transaction costs the most by only investing one asset at each time point
   - The updating strategy “Erroneous exponentiated gradient update” needs an inner product process which can be exponentially speeded by quantum computing techniques.
-  - This paper considers transaction costs and uses a sampling procedure to reduce transaction costs the most by only investing one asset at each time point.
   - Limitation: the updating strategy is based on single-asset price without considering potential risks and correlations between assets.
   - No experiment
 
@@ -107,7 +106,7 @@ Some papers are conducted by many institutions together, and we can only include
 
 #### **2022**
 - **Quantum Proof of Work with Parametrized Quantum Circuits** (M. Y. Shalaginov and M. Dubrovsky) [MIT]
-  - This paper introduces a QPoW that involes a random quantum circuits which can not be simulated efficiently by classical computers.
+  - introduce a QPoW that involes a random quantum circuits which can not be simulated efficiently by classical computers.
 - **Publicly verifiable quantum money from random lattices.** (A. B. Khesin, J. Z. Lu, and P. W. Shor) [MIT, Harvard]
 
 
