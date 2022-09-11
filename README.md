@@ -1,4 +1,4 @@
-# Quantum Finance
+# Quantum Finance (Quantum Computing for Finance)
 Quantum Computing is emerging, and finance could be one of the first industry sectors to benefit from it. This is a new field where new ideas come out every day! That is why we create a collection to follow the up-to-now papers in this field! Welcome to join and update the collection!
 
 The paper format follows the style: Paper Title (Author) [Institution]
