@@ -111,7 +111,7 @@ Some papers are conducted by many institutions together, and we can only include
 
 
 ### **Others**
-#### **Prediciton Financial Crashes**
+#### **Predicting Financial Crashes**
 -  **[2019]** **Forecasting financial crashes with quantum computing.** (R. Orus, S. Mugel, and E. Lizaso) [Multiverse Computing, etc.]
    -  implement on near-term quantum processors and provide a potentially more efficient way to assess financial equilibrium and predict financial crashes.
 
@@ -120,4 +120,7 @@ Some papers are conducted by many institutions together, and we can only include
 #### **Transaction Settlement**
 - **[2021]** **Quantum Algorithms for Mixed Binary Optimization Applied to Transaction Settlement.** (L. Braine, D. J. Egger, J. Glick, and S. Woerner) [Barclays, IBM Quantum]
   - combine binary decision variables with continuous decision variables enables the modelling of inequality constraints via slack variables
+
+#### **Quantum Accounting**
+- **[2022]** **Entropy, Double Entry Accounting and Quantum Entanglement.** (J. C. Fellingham, H. Lin, and D. Schroeder) [Fisher College of Business, The Ohio State University]
 
