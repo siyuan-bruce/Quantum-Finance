@@ -44,6 +44,8 @@ Some papers are conducted by many institutions together, and we can only include
 
 #### **2021**
 - **Portfolio Optimization on Classical and Quantum Computers Using PortFawn.** (M. Owhadi-Kareshk and P. Boulanger) [University of Alberta]
+-  **Quantum walk-based portfolio optimisation.** (N. Slate, E. Matwiejew, S. Marsh, and J. B. Wang) [The University of Western Australia]
+
 
 #### **2022**
 - **NISQ-HHL: Portfolio Optimization for Near-Term Quantum Hardware.** (R. Yalovetzky, P. Minssen, D. Herman, and M. Pistoia) [JP Morgan Chase Bank]
@@ -74,6 +76,8 @@ Some papers are conducted by many institutions together, and we can only include
 
 #### **2021**
 - **Towards Pricing Financial Derivatives with an IBM Quantum Computer.** (A. Martin et al.) [University of the Basque Country UPV/EHU, et al.]
+- **A Quantum Walk Model of Financial Options.** (D. Orrell) [Systems Forecasting]
+
 #### **2022**
 - **Pricing Multi-Asset Derivatives by Finite-Difference Method on a Quantum Computer.** (K. Miyamoto and K. Kubo) [Osaka University]
 
