@@ -80,6 +80,8 @@ Some papers are conducted by many institutions together, and we can only include
 
 #### **2022**
 - **Pricing Multi-Asset Derivatives by Finite-Difference Method on a Quantum Computer.** (K. Miyamoto and K. Kubo) [Osaka University]
+- **Quantum computational finance: martingale asset pricing for incomplete markets.** (P. Rebentrost, A. Luongo, S. Bosch, and S. Lloyd) [CQT, MIT]
+
 
 ### **Fraud Detection**
 #### **2022**
