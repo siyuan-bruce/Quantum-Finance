@@ -14,6 +14,7 @@ Some papers are conducted by many institutions together, and we can only include
   - [Quantum Money](#quantum-money)
   - [Others](#Others)
 
+---
 
 ### **Portfolio Optimization**
 #### **2018**
@@ -53,7 +54,6 @@ Some papers are conducted by many institutions together, and we can only include
   - the first hybrid formulation of HHL suitable for the end-to-end execution of small-scale portfolio-optimization problems on NISQ devices
   - Gate-based quantum computer
 
-
 - **Constrained Quantum Optimization for Extractive Summarization on a Trapped-ion Quantum Computer.** (P. Niroula et al.) [JP Morgan Chase Bank, University of Maryland]
 
 - **A Quantum Online Portfolio Optimization Algorithm.** (D. Lim and P. Rebentrost) [CQT - NUS]
@@ -62,6 +62,7 @@ Some papers are conducted by many institutions together, and we can only include
   - Limitation: the updating strategy is based on single-asset price without considering potential risks and correlations between assets.
   - No experiment
 
+---
 
 ### **Asset Pricing**
 
@@ -76,15 +77,19 @@ Some papers are conducted by many institutions together, and we can only include
 - **Towards Pricing Financial Derivatives with an IBM Quantum Computer.** (A. Martin et al.) [University of the Basque Country UPV/EHU, et al.]
 - **A Quantum Walk Model of Financial Options.** (D. Orrell) [Systems Forecasting]
 
+
+
 #### **2022**
 - **Pricing Multi-Asset Derivatives by Finite-Difference Method on a Quantum Computer.** (K. Miyamoto and K. Kubo) [Osaka University]
 - **Quantum computational finance: martingale asset pricing for incomplete markets.** (P. Rebentrost, A. Luongo, S. Bosch, and S. Lloyd) [CQT, MIT]
 
+---
 
 ### **Fraud Detection**
 - **[2022]** **Mixed Quantum-Classical Method For Fraud Detection with Quantum Feature Selection.** (M. Grossi et al.) [CERN, IBM]
   - present a first end-to-end application of a Quantum Support Vector Machine (QSVM) algorithm for a classification problem in the financial payment industry.
 
+---
 
 ### **Risk Management**
 #### **2019**
@@ -97,7 +102,7 @@ Some papers are conducted by many institutions together, and we can only include
 - **Towards Quantum Advantage in Financial Market Risk using Quantum Gradient Algorithms.** (N. Stamatopoulos, G. Mazzola, S. Woerner, and W. J. Zeng) [Goldman Sachs, IBM]
   - extend this to a quadratic error scaling advantage in market risk computation
 
-
+---
 
 ### **Blockchain**
 - **[2018]** **Quantum-secured blockchain.** (E. O. Kiktenko et al.) [Russian Quantum Center]
