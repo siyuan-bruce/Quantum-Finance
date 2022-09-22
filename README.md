@@ -111,6 +111,8 @@ Some papers are conducted by many institutions together, and we can only include
   - introduce a QPoW that involes a random quantum circuits which can not be simulated efficiently by classical computers.
 - **Publicly verifiable quantum money from random lattices.** (A. B. Khesin, J. Z. Lu, and P. W. Shor) [MIT, Harvard]
 
+---
+
 ### **Quantum Money**
 - **[2017]** **Quantum Lightning Never Strikes the Same State Twice.** (M. Zhandry) [Princeton University]
 - **[2021]** **Public-Key Quantum Money with a Classical Bank.** (O. Shmueli) [Tel Aviv University]
