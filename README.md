@@ -11,6 +11,7 @@ Some papers are conducted by many institutions together, and we can only include
   - [Fraud Detection](#fraud-detection)
   - [Risk Management](#risk-management)
   - [Blockchain](#blockchain)
+  - [Quantum Money](#quantum-money)
   - [Others](#Others)
 
 
@@ -64,13 +65,10 @@ Some papers are conducted by many institutions together, and we can only include
 
 ### **Asset Pricing**
 
-#### **2018**
-- **Quantum computational finance: Monte Carlo pricing of financial .** (P. Rebentrost, B. Gupt, and T. R. Bromley) [Xanadu]
+- **[2018]****Quantum computational finance: Monte Carlo pricing of financial .** (P. Rebentrost, B. Gupt, and T. R. Bromley) [Xanadu]
   - First to present a quantum algorithm for option pricing
 
-
-#### **2020**
-- **Option Pricing using Quantum Computers.** ( N. Stamatopoulos et al.) [JPMorgan Chase, IBM, ETH Zurich]
+- **[2020]****Option Pricing using Quantum Computers.** ( N. Stamatopoulos et al.) [JPMorgan Chase, IBM, ETH Zurich]
   - implementation of the quantum circuits with the input states and operators needed by amplitude estimation to price the different option types
 
 
@@ -84,8 +82,7 @@ Some papers are conducted by many institutions together, and we can only include
 
 
 ### **Fraud Detection**
-#### **2022**
-- **Mixed Quantum-Classical Method For Fraud Detection with Quantum Feature Selection.** (M. Grossi et al.) [CERN, IBM]
+- **[2022]****Mixed Quantum-Classical Method For Fraud Detection with Quantum Feature Selection.** (M. Grossi et al.) [CERN, IBM]
   - present a first end-to-end application of a Quantum Support Vector Machine (QSVM) algorithm for a classification problem in the financial payment industry.
 
 
@@ -103,8 +100,7 @@ Some papers are conducted by many institutions together, and we can only include
 
 
 ### **Blockchain**
-#### **2018**
-- **Quantum-secured blockchain.** (E. O. Kiktenko et al.) [Russian Quantum Center]
+- **[2018]** **Quantum-secured blockchain.** (E. O. Kiktenko et al.) [Russian Quantum Center]
 
 #### **2021**
 - **Quantum-resistance in blockchain networks.**(M. Allende et al.) [IDB, 2LACChain, CQC, Tecnologico de Monterrey]
@@ -114,6 +110,11 @@ Some papers are conducted by many institutions together, and we can only include
 - **Quantum Proof of Work with Parametrized Quantum Circuits** (M. Y. Shalaginov and M. Dubrovsky) [MIT]
   - introduce a QPoW that involes a random quantum circuits which can not be simulated efficiently by classical computers.
 - **Publicly verifiable quantum money from random lattices.** (A. B. Khesin, J. Z. Lu, and P. W. Shor) [MIT, Harvard]
+
+### **Quantum Money**
+- **[2017]** **Quantum Lightning Never Strikes the Same State Twice.** (M. Zhandry) [Princeton University]
+- **[2021]** **Public-Key Quantum Money with a Classical Bank.** (O. Shmueli) [Tel Aviv University]
+- **[2022]** **Publicly verifiable quantum money from random lattices.** (A. B. Khesin, J. Z. Lu, and P. W. Shor)[MIT, Harvard]
 
 
 ### **Others**
