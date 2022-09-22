@@ -59,8 +59,7 @@ Some papers are conducted by many institutions together, and we can only include
 - **A Quantum Online Portfolio Optimization Algorithm.** (D. Lim and P. Rebentrost) [CQT - NUS]
   - give a sampling version of an existing classical online portfolio optimization algorithm while using a sampling procedure to reduce transaction costs the most by only investing one asset at each time point
   - The updating strategy “Erroneous exponentiated gradient update” needs an inner product process which can be exponentially speeded by quantum computing techniques.
-  - Limitation: the updating strategy is based on single-asset price without considering potential risks and correlations between assets.
-  - No experiment
+  <!-- - Limitation: the updating strategy is based on single-asset price without considering potential risks and correlations between assets. -->
 
 ---
 
