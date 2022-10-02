@@ -57,8 +57,8 @@ Some papers are conducted by many institutions together, and we can only include
 - **Constrained Quantum Optimization for Extractive Summarization on a Trapped-ion Quantum Computer.** (P. Niroula et al.) [JP Morgan Chase Bank, University of Maryland]
 
 - **A Quantum Online Portfolio Optimization Algorithm.** (D. Lim and P. Rebentrost) [CQT - NUS]
-  - give a sampling version of an existing classical online portfolio optimization algorithm while using a sampling procedure to reduce transaction costs the most by only investing one asset at each time point
-  - The updating strategy “Erroneous exponentiated gradient update” needs an inner product process which can be exponentially speeded by quantum computing techniques.
+  <!-- - give a sampling version of an existing classical online portfolio optimization algorithm while using a sampling procedure to reduce transaction costs the most by only investing one asset at each time point
+  - The updating strategy “Erroneous exponentiated gradient update” needs an inner product process which can be speeded by quantum computing techniques. -->
   <!-- - Limitation: the updating strategy is based on single-asset price without considering potential risks and correlations between assets. -->
 
 ---
@@ -118,7 +118,16 @@ Some papers are conducted by many institutions together, and we can only include
 ---
 
 ### **Quantum Money**
+- **[1983]** **Conjugate coding.** (Wiesner, Stephen) [Columbia university]
+- **[2016]** **Quantum tokens for digital signatures.** (Ben-David, Shalev, and Or Sattath) [MIT, The Hebrew University]
 - **[2017]** **Quantum Lightning Never Strikes the Same State Twice.** (M. Zhandry) [Princeton University]
+
+#### **[2018]** 
+- **"Experimental preparation and verification of quantum money."** (Guan, Jian-Yu, Juan Miguel Arrazola, Ryan Amiri, Weijun Zhang, Hao Li, Lixing You, Zhen Wang, Qiang Zhang, and Jian-Wei Pan.) [USTC, CQT]
+- **"Experimental investigation of practical unforgeable quantum money."** (Bozzio, Mathieu, Adeline Orieux, Luis Trigo Vidarte, Isabelle Zaquine, Iordanis Kerenidis, and Eleni Diamanti.) npj Quantum Information.
+
+- **[2019]** **"Practically feasible robust quantum money with classical verification."** (Kumar, Niraj) [University of Edinburgh]
+- **[2020]** **"A quantum money solution to the blockchain scalability problem."** (Coladangelo, Andrea, and Or Sattath) [Caltech, Ben-Gurion University] Quantum.
 - **[2021]** **Public-Key Quantum Money with a Classical Bank.** (O. Shmueli) [Tel Aviv University]
 - **[2022]** **Publicly verifiable quantum money from random lattices.** (A. B. Khesin, J. Z. Lu, and P. W. Shor)[MIT, Harvard]
 
