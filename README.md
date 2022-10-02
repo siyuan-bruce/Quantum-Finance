@@ -118,12 +118,12 @@ Some papers are conducted by many institutions together, and we can only include
 ---
 
 ### **Quantum Money**
-- **[1983]** **Conjugate coding.** (Wiesner, Stephen) [Columbia university]
+- **[1983]** **"Conjugate coding."** (Wiesner, Stephen) [Columbia university]
 - **[2013]** **"Quantum money from hidden subspaces."** (Aaronson, Scott, and Paul Christiano. ) [MIT], Theory of Computing.
 - **[2016]** **Quantum tokens for digital signatures.** (Ben-David, Shalev, and Or Sattath) [MIT, The Hebrew University]
 - **[2017]** **Quantum Lightning Never Strikes the Same State Twice.** (M. Zhandry) [Princeton University]
 - **[2018]** **"Experimental preparation and verification of quantum money."** (Guan, Jian-Yu, Juan Miguel Arrazola, Ryan Amiri, Weijun Zhang, Hao Li, Lixing You, Zhen Wang, Qiang Zhang, and Jian-Wei Pan.) [USTC, CQT]
-- **[2018]** **"Experimental investigation of practical unforgeable quantum money."** (Bozzio, Mathieu, Adeline Orieux, Luis Trigo Vidarte, Isabelle Zaquine, Iordanis Kerenidis, and Eleni Diamanti.) npj Quantum Information.
+- **[2018]** **"Experimental investigation of practical unforgeable quantum money."** (Bozzio, Mathieu, Adeline Orieux, Luis Trigo Vidarte, Isabelle Zaquine, Iordanis Kerenidis, and Eleni Diamanti.) [CNRS, CQT] npj Quantum Information.
 - **[2019]** **"Practically feasible robust quantum money with classical verification."** (Kumar, Niraj) [University of Edinburgh]
 - **[2020]** **"A quantum money solution to the blockchain scalability problem."** (Coladangelo, Andrea, and Or Sattath) [Caltech, Ben-Gurion University] Quantum.
 - **[2021]** **Public-Key Quantum Money with a Classical Bank.** (O. Shmueli) [Tel Aviv University]
