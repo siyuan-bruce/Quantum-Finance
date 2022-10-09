@@ -83,7 +83,7 @@ Some papers are conducted by many institutions together, and we can only include
 ---
 
 ### **Quantum Money**
-- **[1983]** **"Conjugate coding."** (Wiesner, Stephen) [Columbia university]
+- **[1960+]** **"Conjugate coding."** (Wiesner, Stephen) [Columbia university]
 - **[2013]** **"Quantum money from hidden subspaces."** (Aaronson, Scott, and Paul Christiano. ) [MIT], Theory of Computing.
 - **[2016]** **"Quantum tokens for digital signatures."** (Ben-David, Shalev, and Or Sattath) [MIT, The Hebrew University]
 - **[2017]** **"Quantum Lightning Never Strikes the Same State Twice."** (M. Zhandry) [Princeton University]
