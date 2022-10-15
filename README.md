@@ -78,7 +78,6 @@ Some papers are conducted by many institutions together, and we can only include
 - **[2021]** **"Post-Quantum Blockchain Proofs of Work."** (A. Cojocaru, J. Garay, A. Kiayias, F. Song, and P. Wallden) [Inria, etc.]
 - **[2022]** **"Quantum Proof of Work with Parametrized Quantum Circuits** (M. Y. Shalaginov and M. Dubrovsky) [MIT]
   - introduce a QPoW that involes a random quantum circuits which can not be simulated efficiently by classical computers.
-- **[2022]** **"Publicly verifiable quantum money from random lattices."** (A. B. Khesin, J. Z. Lu, and P. W. Shor) [MIT, Harvard]
 
 ---
 
