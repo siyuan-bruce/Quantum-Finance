@@ -6,13 +6,18 @@ The paper format follows the style: Paper Title (Author) [Institution]
 Some papers are conducted by many institutions together, and we can only include the corresponding institution.
 
 ## Table of Contents
-  - [Portfolio Optimization](#portfolio-optimization)
-  - [Asset Pricing](#asset-pricing)
-  - [Fraud Detection](#fraud-detection)
-  - [Risk Management](#risk-management)
-  - [Blockchain](#blockchain)
-  - [Quantum Money](#quantum-money)
-  - [Others](#Others)
+- [Quantum Finance (Quantum Computing for Finance)](#quantum-finance-quantum-computing-for-finance)
+  - [Table of Contents](#table-of-contents)
+    - [**Portfolio Optimization**](#portfolio-optimization)
+    - [**Asset Pricing**](#asset-pricing)
+    - [**Fraud Detection**](#fraud-detection)
+    - [**Risk Management**](#risk-management)
+    - [**Blockchain**](#blockchain)
+    - [**Quantum Money**](#quantum-money)
+    - [**Others**](#others)
+      - [**Predicting Financial Crashes**](#predicting-financial-crashes)
+      - [**Transaction Settlement**](#transaction-settlement)
+      - [**Quantum Accounting**](#quantum-accounting)
 ---
 
 ### **Portfolio Optimization**
@@ -51,8 +56,10 @@ Some papers are conducted by many institutions together, and we can only include
 - **[2020]** **"Option Pricing using Quantum Computers."** ( N. Stamatopoulos et al.) [JPMorgan Chase, IBM, ETH Zurich]
   - implementation of the quantum circuits with the input states and operators needed by amplitude estimation to price the different option types
 - **[2021]** **"Towards Pricing Financial Derivatives with an IBM Quantum Computer."** (A. Martin et al.) [University of the Basque Country UPV/EHU, et al.]
-- **[2021]** **A Quantum Walk Model of Financial Options."** (D. Orrell) [Systems Forecasting]
+- **[2021]** **"A Quantum Walk Model of Financial Options."** (D. Orrell) [Systems Forecasting]
+- **[2021]** **"Quantum algorithm for stochastic optimal stopping problems with applications in finance."** (P. Rebenstrost et. al)[CQT]
 - **[2022]** **"Pricing Multi-Asset Derivatives by Finite-Difference Method on a Quantum Computer."** (K. Miyamoto and K. Kubo) [Osaka University]
+- **[2022]** **"Quantum advantage for multi-option portfolio pricing and valuation adjustments."** (Jeong Yu Han, Patrick Rebentrost)[CQT]
 - **[2022]** **"Quantum computational finance: martingale asset pricing for incomplete markets."** (P. Rebentrost, A. Luongo, S. Bosch, and S. Lloyd) [CQT, MIT]
 
 ---
