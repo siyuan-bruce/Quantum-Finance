@@ -38,11 +38,13 @@ Some papers are conducted by many institutions together, and we can only include
   - pick 40 assets, which creates a solution space of 240 or 1.1 trillion portfolios from which to select.
 - **[2021]** **"Portfolio Optimization on Classical and Quantum Computers Using PortFawn."** (M. Owhadi-Kareshk and P. Boulanger) [University of Alberta]
 - **[2021]** **"Quantum walk-based portfolio optimisation."** (N. Slate, E. Matwiejew, S. Marsh, and J. B. Wang) [The University of Western Australia]
+- **[2021]** **"Quantum Portfolio Optimization with Investment Bands and Target Volatility."** (Samuel Palmer, Serkan Sahin, Rodrigo Hernandez, Samuel Mugel, Roman Orus) [Multiverse Computing]
 - **[2022]** **"NISQ-HHL: Portfolio Optimization for Near-Term Quantum Hardware."** (R. Yalovetzky, P. Minssen, D. Herman, and M. Pistoia) [JP Morgan Chase Bank]
   - the first hybrid formulation of HHL suitable for the end-to-end execution of small-scale portfolio-optimization problems on NISQ devices
   - Gate-based quantum computer
 - **[2022]** **"Constrained Quantum Optimization for Extractive Summarization on a Trapped-ion Quantum Computer."** (P. Niroula et al.) [JP Morgan Chase Bank, University of Maryland]
 - **[2022]** **A Quantum Online Portfolio Optimization Algorithm."** (D. Lim and P. Rebentrost) [CQT - NUS]
+- 
   <!-- - give a sampling version of an existing classical online portfolio optimization algorithm while using a sampling procedure to reduce transaction costs the most by only investing one asset at each time point
   - The updating strategy “Erroneous exponentiated gradient update” needs an inner product process which can be speeded by quantum computing techniques. -->
   <!-- - Limitation: the updating strategy is based on single-asset price without considering potential risks and correlations between assets. -->
@@ -57,8 +59,9 @@ Some papers are conducted by many institutions together, and we can only include
   - implementation of the quantum circuits with the input states and operators needed by amplitude estimation to price the different option types
 - **[2021]** **"Towards Pricing Financial Derivatives with an IBM Quantum Computer."** (A. Martin et al.) [University of the Basque Country UPV/EHU, et al.]
 - **[2021]** **"A Quantum Walk Model of Financial Options."** (D. Orrell) [Systems Forecasting]
-- **[2021]** **"Quantum algorithm for stochastic optimal stopping problems with applications in finance."** (P. Rebenstrost et. al)[CQT], IEEE Transactions on Quantum Engineering
-- **[2022]** **"Pricing Multi-Asset Derivatives by Finite-Difference Method on a Quantum Computer."** (K. Miyamoto and K. Kubo) [Osaka University]
+- **[2021]** **"Quantum algorithm for stochastic optimal stopping problems with applications in finance."** (P. Rebenstrost et. al)[CQT]
+- **[2021]** **"Simulating option price dynamics with exponential quantum speedup."** (Javier Gonzalez-Conde et. al)[University of the Basque Country]
+- **[2022]** **"Pricing Multi-Asset Derivatives by Finite-Difference Method on a Quantum Computer."** (K. Miyamoto and K. Kubo) [Osaka University], IEEE Transactions on Quantum Engineering
 - **[2022]** **"Quantum advantage for multi-option portfolio pricing and valuation adjustments."** (Jeong Yu Han, Patrick Rebentrost)[CQT]
 - **[2022]** **"Quantum computational finance: martingale asset pricing for incomplete markets."** (P. Rebentrost, A. Luongo, S. Bosch, and S. Lloyd) [CQT, MIT]
 
