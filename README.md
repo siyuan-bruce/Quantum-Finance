@@ -37,7 +37,7 @@ Some papers are conducted by many institutions together, and we can only include
   - use DWaves 2,041 qubit quantum annealer through a repeatable research and business process. 
   - pick 40 assets, which creates a solution space of 240 or 1.1 trillion portfolios from which to select.
 - **[2021]** **"Portfolio Optimization on Classical and Quantum Computers Using PortFawn."** (M. Owhadi-Kareshk and P. Boulanger) [University of Alberta]
--  **"Quantum walk-based portfolio optimisation."** (N. Slate, E. Matwiejew, S. Marsh, and J. B. Wang) [The University of Western Australia]
+- **[2021]** **"Quantum walk-based portfolio optimisation."** (N. Slate, E. Matwiejew, S. Marsh, and J. B. Wang) [The University of Western Australia]
 - **[2022]** **"NISQ-HHL: Portfolio Optimization for Near-Term Quantum Hardware."** (R. Yalovetzky, P. Minssen, D. Herman, and M. Pistoia) [JP Morgan Chase Bank]
   - the first hybrid formulation of HHL suitable for the end-to-end execution of small-scale portfolio-optimization problems on NISQ devices
   - Gate-based quantum computer
@@ -76,6 +76,7 @@ Some papers are conducted by many institutions together, and we can only include
 - **[2020]** **"Improving Variational Quantum Optimization using CVaR."** (P. K. Barkoutsos, G. Nannicini, A. Robert, I. Tavernelli, and S. Woerner) [IBM Research, PSL University]
 - **[2021]** **"Towards Quantum Advantage in Financial Market Risk using Quantum Gradient Algorithms."** (N. Stamatopoulos, G. Mazzola, S. Woerner, and W. J. Zeng) [Goldman Sachs, IBM]
   - extend this to a quadratic error scaling advantage in market risk computation
+- **[2022]** **"Towards Quantum Advantage in Financial Market Risk using Quantum Gradient Algorithms."** (Nikitas Stamatopoulos, Guglielmo Mazzola, Stefan Woerner, and William J. Zeng)[Goldman, Sachs, IBM Quantum]
 
 ---
 
