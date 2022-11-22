@@ -57,7 +57,7 @@ Some papers are conducted by many institutions together, and we can only include
   - implementation of the quantum circuits with the input states and operators needed by amplitude estimation to price the different option types
 - **[2021]** **"Towards Pricing Financial Derivatives with an IBM Quantum Computer."** (A. Martin et al.) [University of the Basque Country UPV/EHU, et al.]
 - **[2021]** **"A Quantum Walk Model of Financial Options."** (D. Orrell) [Systems Forecasting]
-- **[2021]** **"Quantum algorithm for stochastic optimal stopping problems with applications in finance."** (P. Rebenstrost et. al)[CQT]
+- **[2021]** **"Quantum algorithm for stochastic optimal stopping problems with applications in finance."** (P. Rebenstrost et. al)[CQT], IEEE Transactions on Quantum Engineering
 - **[2022]** **"Pricing Multi-Asset Derivatives by Finite-Difference Method on a Quantum Computer."** (K. Miyamoto and K. Kubo) [Osaka University]
 - **[2022]** **"Quantum advantage for multi-option portfolio pricing and valuation adjustments."** (Jeong Yu Han, Patrick Rebentrost)[CQT]
 - **[2022]** **"Quantum computational finance: martingale asset pricing for incomplete markets."** (P. Rebentrost, A. Luongo, S. Bosch, and S. Lloyd) [CQT, MIT]
@@ -65,6 +65,7 @@ Some papers are conducted by many institutions together, and we can only include
 ---
 
 ### **Fraud Detection**
+- **[2021]** **"Unsupervised quantum machine learning for fraud detection."** (Oleksandr Kyriienko and Einar B. Magnusson)[University of Exeter, HSBC]
 - **[2022]** **"Mixed Quantum-Classical Method For Fraud Detection with Quantum Feature Selection."** (M. Grossi et al.) [CERN, IBM]
   - present a first end-to-end application of a Quantum Support Vector Machine (QSVM) algorithm for a classification problem in the financial payment industry.
 
@@ -75,9 +76,9 @@ Some papers are conducted by many institutions together, and we can only include
   - present a quantum algorithm that analyzes risk more efficiently than Monte Carlo simulations traditionally used on classical computers (financial risk for a two-asset portfolio )
 - **[2020]** **"Improving Variational Quantum Optimization using CVaR."** (P. K. Barkoutsos, G. Nannicini, A. Robert, I. Tavernelli, and S. Woerner) [IBM Research, PSL University]
 - **[2021]** **"Towards Quantum Advantage in Financial Market Risk using Quantum Gradient Algorithms."** (N. Stamatopoulos, G. Mazzola, S. Woerner, and W. J. Zeng) [Goldman Sachs, IBM]
-  - extend this to a quadratic error scaling advantage in market risk computation
-- **[2022]** **"Towards Quantum Advantage in Financial Market Risk using Quantum Gradient Algorithms."** (Nikitas Stamatopoulos, Guglielmo Mazzola, Stefan Woerner, and William J. Zeng)[Goldman, Sachs, IBM Quantum]
-
+- **[2021]** **"Credit Risk Analysis Using Quantum Computers."** (Daniel J. Egger , Ricardo Garcıa Gutierrez, Jordi Cahu e Mestre, and Stefan Woerner) [IBM]
+- **[2021]** **"Quantum speedup of Monte Carlo integration with respect to the number of dimensions and its application to finance."** (Kazuya Kaneko, Koichi Miyamoto, Naoyuki Takeda, Kazuyoshi Yoshino)[Mizuho-DL Financial Technology Co, Center for Quantum Information and Quantum biology], Quantum Information Processing.
+  <!-- - extend this to a quadratic error scaling advantage in market risk computation -->
 ---
 
 ### **Blockchain**
