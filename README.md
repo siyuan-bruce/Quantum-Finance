@@ -71,6 +71,7 @@ Some papers are conducted by many institutions together, and we can only include
 - **[2021]** **"Unsupervised quantum machine learning for fraud detection."** (Oleksandr Kyriienko and Einar B. Magnusson)[University of Exeter, HSBC]
 - **[2022]** **"Mixed Quantum-Classical Method For Fraud Detection with Quantum Feature Selection."** (M. Grossi et al.) [CERN, IBM]
   - present a first end-to-end application of a Quantum Support Vector Machine (QSVM) algorithm for a classification problem in the financial payment industry.
+- **[2022]** **"Approximate complex amplitude encoding algorithm and its application toclassification problem in financial operations."** (Naoki Mitsuda, et. al)[Sumitomo Mitsui Trust Bank,  Keio University]
 
 ---
 
@@ -112,7 +113,6 @@ Some papers are conducted by many institutions together, and we can only include
 #### **Predicting Financial Crashes**
 -  **[2019]** **"Forecasting financial crashes with quantum computing."** (R. Orus, S. Mugel, and E. Lizaso) [Multiverse Computing, etc.]
    -  implement on near-term quantum processors and provide a potentially more efficient way to assess financial equilibrium and predict financial crashes.
-
 - **[2021]** **"Towards Prediction of Financial Crashes with a D-Wave Quantum Computer."** (Y. Ding et al.) [Shanghai University, University of the Basque Country UPV/EHU, etc.]
 
 #### **Transaction Settlement**
