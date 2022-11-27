@@ -21,7 +21,7 @@ Some papers are conducted by many institutions together, and we can only include
 ---
 
 ### **Portfolio Optimization**
-- **[2018]** **["Quantum computational finance: quantum algorithm for portfolio optimization."](https://arxiv.org/pdf/1811.03975)** (P. Rebentrost and S. Lloyd) [CQT - NUS, MIT]
+- **[2018]** **"Quantum computational finance: quantum algorithm for portfolio optimization."** (P. Rebentrost and S. Lloyd) [CQT - NUS, MIT] - [Link](https://arxiv.org/pdf/1811.03975)
   - First to present a quantum algorithm for portfolio optimization
   - Gate-based quantum computer
 - **[2019]** **"Reverse Quantum Annealing Approach to Portfolio Optimization Problems."** (D. Venturelli and A. Kondratyev) [USRA, Standard Chartered Bank]
