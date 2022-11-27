@@ -95,9 +95,9 @@ Some papers are conducted by many institutions together, and we can only include
 ---
 
 ### **Quantum Money**
-- **[1960+]** **"Conjugate coding."** (Wiesner, Stephen) [Columbia university]
-- **[2013]** **"Quantum money from hidden subspaces."** (Aaronson, Scott, and Paul Christiano. ) [MIT], Theory of Computing.
-- **[2016]** **"Quantum tokens for digital signatures."** (Ben-David, Shalev, and Or Sattath) [MIT, The Hebrew University]
+- **[1960+]** **"Conjugate coding."** (Wiesner, Stephen) [Columbia university], [ACM Sigact News](https://dl.acm.org/doi/pdf/10.1145/1008908.1008920).
+- **[2013]** **"Quantum Money from Hidden Subspaces."** (Aaronson, Scott, and Paul Christiano. ) [MIT], [STOC '12: Proceedings of the forty-fourth annual ACM symposium on Theory of computing](https://dl.acm.org/doi/abs/10.1145/2213977.2213983).
+- **[2016]** **"Quantum Tokens for Digital Signatures."** (Ben-David, Shalev, and Or Sattath) [MIT, The Hebrew University], [arXiv](https://arxiv.org/pdf/1609.09047).
 - **[2017]** **"Quantum Lightning Never Strikes the Same State Twice."** (M. Zhandry) [Princeton University]
 - **[2018]** **"Experimental preparation and verification of quantum money."** (Guan, Jian-Yu, Juan Miguel Arrazola, Ryan Amiri, Weijun Zhang, Hao Li, Lixing You, Zhen Wang, Qiang Zhang, and Jian-Wei Pan.) [USTC, CQT]
 - **[2018]** **"Experimental investigation of practical unforgeable quantum money."** (Bozzio, Mathieu, Adeline Orieux, Luis Trigo Vidarte, Isabelle Zaquine, Iordanis Kerenidis, and Eleni Diamanti.) [CNRS, CQT] npj Quantum Information.
