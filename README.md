@@ -1,23 +1,21 @@
-# Quantum Finance (Quantum Computing for Finance)
+## Quantum Finance (Quantum Computing for Finance)
 Quantum Computing is emerging, and finance could be one of the first industry sectors to benefit from it. This is a new field where new ideas come out every day! That is why we create a collection to follow the up-to-now papers in this field! Welcome to join and update the collection!
 
 The paper format follows the style: Paper Title (Author) [Institution]
 
 Some papers are conducted by many institutions together, and we can only include the corresponding institution.
 
-## Table of Contents
 - [Quantum Finance (Quantum Computing for Finance)](#quantum-finance-quantum-computing-for-finance)
-  - [Table of Contents](#table-of-contents)
-    - [**Portfolio Optimization**](#portfolio-optimization)
-    - [**Asset Pricing**](#asset-pricing)
-    - [**Fraud Detection**](#fraud-detection)
-    - [**Risk Management**](#risk-management)
-    - [**Blockchain**](#blockchain)
-    - [**Quantum Money**](#quantum-money)
-    - [**Others**](#others)
-      - [**Predicting Financial Crashes**](#predicting-financial-crashes)
-      - [**Transaction Settlement**](#transaction-settlement)
-      - [**Quantum Accounting**](#quantum-accounting)
+  - [**Portfolio Optimization**](#portfolio-optimization)
+  - [**Asset Pricing**](#asset-pricing)
+  - [**Fraud Detection**](#fraud-detection)
+  - [**Risk Management**](#risk-management)
+  - [**Blockchain**](#blockchain)
+  - [**Quantum Money**](#quantum-money)
+  - [**Others**](#others)
+    - [**Predicting Financial Crashes**](#predicting-financial-crashes)
+    - [**Transaction Settlement**](#transaction-settlement)
+    - [**Quantum Accounting**](#quantum-accounting)
 ---
 
 ### **Portfolio Optimization**
