@@ -5,6 +5,7 @@ The paper format follows the style: Paper Title (Author) [Institution]
 
 Some papers are conducted by many institutions together, and we can only include the corresponding institution.
 
+**Table of Contents**
 - [Quantum Finance (Quantum Computing for Finance)](#quantum-finance-quantum-computing-for-finance)
   - [**Portfolio Optimization**](#portfolio-optimization)
   - [**Asset Pricing**](#asset-pricing)
