@@ -86,26 +86,26 @@ Some papers are conducted by many institutions together, and we can only include
 ---
 
 ### **Blockchain**
-- **[2018]** **"Quantum-secured blockchain."** (E. O. Kiktenko et al.) [Russian Quantum Center]
-- **[2021]** **"Quantum-resistance in blockchain networks."**(M. Allende et al.) [IDB, 2LACChain, CQC, Tecnologico de Monterrey]
-- **[2021]** **"Post-Quantum Blockchain Proofs of Work."** (A. Cojocaru, J. Garay, A. Kiayias, F. Song, and P. Wallden) [Inria, etc.]
-- **[2022]** **"Quantum Proof of Work with Parametrized Quantum Circuits** (M. Y. Shalaginov and M. Dubrovsky) [MIT]
+- **[2018]** **"Quantum-secured Blockchain."** (E. O. Kiktenko et al.) [Russian Quantum Center], [Quantum Science and Technology](https://iopscience.iop.org/article/10.1088/2058-9565/aabc6b/pdf).
+- **[2021]** **"Quantum-resistance in blockchain networks."**(M. Allende et al.) [IDB, 2LACChain, CQC, Tecnologico de Monterrey], [arXiv](https://arxiv.org/pdf/2106.06640).
+- **[2021]** **"Post-Quantum Blockchain Proofs of Work."** (A. Cojocaru, J. Garay, A. Kiayias, F. Song, and P. Wallden) [Inria, etc.], [arXiv](https://arxiv.org/pdf/2012.15254.pdf).
+- **[2022]** **"Quantum Proof of Work with Parametrized Quantum Circuits** (M. Y. Shalaginov and M. Dubrovsky) [MIT], [arXiv](https://arxiv.org/pdf/2204.10643).
   - introduce a QPoW that involes a random quantum circuits which can not be simulated efficiently by classical computers.
 
 ---
 
 ### **Quantum Money**
 - **[1960+]** **"Conjugate coding."** (Wiesner, Stephen) [Columbia university], [ACM Sigact News](https://dl.acm.org/doi/pdf/10.1145/1008908.1008920).
-- **[2013]** **"Quantum Money from Hidden Subspaces."** (Aaronson, Scott, and Paul Christiano. ) [MIT], [STOC '12: Proceedings of the forty-fourth annual ACM symposium on Theory of computing](https://dl.acm.org/doi/abs/10.1145/2213977.2213983).
+- **[2013]** **"Quantum Money from Hidden Subspaces."** (Aaronson, Scott, and Paul Christiano) [MIT], [STOC '12: Proceedings of the forty-fourth annual ACM symposium on Theory of computing](https://dl.acm.org/doi/abs/10.1145/2213977.2213983).
 - **[2016]** **"Quantum Tokens for Digital Signatures."** (Ben-David, Shalev, and Or Sattath) [MIT, The Hebrew University], [arXiv](https://arxiv.org/pdf/1609.09047).
-- **[2017]** **"Quantum Lightning Never Strikes the Same State Twice."** (M. Zhandry) [Princeton University]
-- **[2018]** **"Experimental preparation and verification of quantum money."** (Guan, Jian-Yu, Juan Miguel Arrazola, Ryan Amiri, Weijun Zhang, Hao Li, Lixing You, Zhen Wang, Qiang Zhang, and Jian-Wei Pan.) [USTC, CQT]
-- **[2018]** **"Experimental investigation of practical unforgeable quantum money."** (Bozzio, Mathieu, Adeline Orieux, Luis Trigo Vidarte, Isabelle Zaquine, Iordanis Kerenidis, and Eleni Diamanti.) [CNRS, CQT] npj Quantum Information.
-- **[2019]** **"Practically feasible robust quantum money with classical verification."** (Kumar, Niraj) [University of Edinburgh]
-- **[2020]** **"A quantum money solution to the blockchain scalability problem."** (Coladangelo, Andrea, and Or Sattath) [Caltech, Ben-Gurion University] Quantum.
-- **[2021]** **"Public-Key Quantum Money with a Classical Bank."** (O. Shmueli) [Tel Aviv University]
-- **[2021]** **"Quantum money from quaternion algebras."** (Kane, Daniel M., Shahed Sharif, and Alice Silverberg.) [UCSD, California State University, University of California, Irvine], arXiv.
-- **[2022]** **"Publicly verifiable quantum money from random lattices."** (A. B. Khesin, J. Z. Lu, and P. W. Shor)[MIT, Harvard]
+- **[2017]** **"Quantum Lightning Never Strikes the Same State Twice."** (M. Zhandry) [Princeton University], [arXiv](https://arxiv.org/pdf/1711.02276).
+- **[2018]** **"Experimental preparation and verification of quantum money."** (Guan, Jian-Yu, Juan Miguel Arrazola, Ryan Amiri, Weijun Zhang, Hao Li, Lixing You, Zhen Wang, Qiang Zhang, and Jian-Wei Pan.) [USTC, CQT], [arXiv](https://arxiv.org/pdf/1709.05882.pdf).
+- **[2018]** **"Experimental investigation of practical unforgeable quantum money."** (Bozzio, Mathieu, Adeline Orieux, Luis Trigo Vidarte, Isabelle Zaquine, Iordanis Kerenidis, and Eleni Diamanti.) [CNRS, CQT] [npj Quantum Information](https://www.nature.com/articles/s41534-018-0058-2).
+- **[2019]** **"Practically feasible robust quantum money with classical verification."** (Kumar, Niraj) [University of Edinburgh], [Cryptography](https://www.mdpi.com/2410-387X/3/4/26/htm).
+- **[2020]** **"A quantum money solution to the blockchain scalability problem."** (Coladangelo, Andrea, and Or Sattath) [Caltech, Ben-Gurion University] [Quantum](https://quantum-journal.org/papers/q-2020-07-16-297/).
+- **[2021]** **"Public-Key Quantum Money with a Classical Bank."** (O. Shmueli) [Tel Aviv University], [STOC 2022: Proceedings of the 54th Annual ACM SIGACT Symposium on Theory of Computing](https://dl.acm.org/doi/pdf/10.1145/3519935.3519952).
+- **[2021]** **"Quantum money from quaternion algebras."** (Kane, Daniel M., Shahed Sharif, and Alice Silverberg.) [UCSD, California State University, University of California, Irvine], [arXiv](https://arxiv.org/pdf/2109.12643).
+- **[2022]** **"Publicly verifiable quantum money from random lattices."** (A. B. Khesin, J. Z. Lu, and P. W. Shor)[MIT, Harvard], [arXiv](https://arxiv.org/pdf/2207.13135).
 
 ---
 
