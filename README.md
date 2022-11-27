@@ -21,7 +21,7 @@ Some papers are conducted by many institutions together, and we can only include
 ---
 
 ### **Portfolio Optimization**
-- **[2018]** **"Quantum computational finance: quantum algorithm for portfolio optimization."** (P. Rebentrost and S. Lloyd) [CQT - NUS, MIT]
+- **[2018]** **["Quantum computational finance: quantum algorithm for portfolio optimization."](https://arxiv.org/pdf/1811.03975)** (P. Rebentrost and S. Lloyd) [CQT - NUS, MIT]
   - First to present a quantum algorithm for portfolio optimization
   - Gate-based quantum computer
 - **[2019]** **"Reverse Quantum Annealing Approach to Portfolio Optimization Problems."** (D. Venturelli and A. Kondratyev) [USRA, Standard Chartered Bank]
@@ -71,7 +71,7 @@ Some papers are conducted by many institutions together, and we can only include
 - **[2021]** **"Unsupervised quantum machine learning for fraud detection."** (Oleksandr Kyriienko and Einar B. Magnusson)[University of Exeter, HSBC]
 - **[2022]** **"Mixed Quantum-Classical Method For Fraud Detection with Quantum Feature Selection."** (M. Grossi et al.) [CERN, IBM]
   - present a first end-to-end application of a Quantum Support Vector Machine (QSVM) algorithm for a classification problem in the financial payment industry.
-- **[2022]** **"Approximate complex amplitude encoding algorithm and its application toclassification problem in financial operations."** (Naoki Mitsuda, et. al)[Sumitomo Mitsui Trust Bank,  Keio University]
+- **[2022]** **"Approximate complex amplitude encoding algorithm and its application to classification problem in financial operations."** (Naoki Mitsuda, et. al)[Sumitomo Mitsui Trust Bank,  Keio University]
 
 ---
 
