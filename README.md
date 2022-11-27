@@ -111,14 +111,14 @@ Some papers are conducted by many institutions together, and we can only include
 
 ### **Others**
 #### **Predicting Financial Crashes**
--  **[2019]** **"Forecasting financial crashes with quantum computing."** (R. Orus, S. Mugel, and E. Lizaso) [Multiverse Computing, etc.]
+-  **[2019]** **"Forecasting financial crashes with quantum computing."** (R. Orus, S. Mugel, and E. Lizaso) [Multiverse Computing, etc.], [Physical Review A](https://link.aps.org/pdf/10.1103/PhysRevA.99.060301)
    -  implement on near-term quantum processors and provide a potentially more efficient way to assess financial equilibrium and predict financial crashes.
-- **[2021]** **"Towards Prediction of Financial Crashes with a D-Wave Quantum Computer."** (Y. Ding et al.) [Shanghai University, University of the Basque Country UPV/EHU, etc.]
+- **[2021]** **"Towards Prediction of Financial Crashes with a D-Wave Quantum Computer."** (Y. Ding et al.) [Shanghai University, University of the Basque Country UPV/EHU, etc.], [arXiv](https://arxiv.org/pdf/1904.05808).
 
 #### **Transaction Settlement**
-- **[2021]** **"Quantum Algorithms for Mixed Binary Optimization Applied to Transaction Settlement."** (L. Braine, D. J. Egger, J. Glick, and S. Woerner) [Barclays, IBM Quantum]
+- **[2021]** **"Quantum Algorithms for Mixed Binary Optimization Applied to Transaction Settlement."** (L. Braine, D. J. Egger, J. Glick, and S. Woerner) [Barclays, IBM Quantum], [IEEE Transactions on Quantum Engineering](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9369145).
   - combine binary decision variables with continuous decision variables enables the modelling of inequality constraints via slack variables
 
 #### **Quantum Accounting**
-- **[2022]** **"Entropy, Double Entry Accounting and Quantum Entanglement."** (J. C. Fellingham, H. Lin, and D. Schroeder) [Fisher College of Business, The Ohio State University]
+- **[2022]** **"Entropy, Double Entry Accounting and Quantum Entanglement."** (J. C. Fellingham, H. Lin, and D. Schroeder) [Fisher College of Business, The Ohio State University], [Foundations and Trends® in Accounting](https://www.nowpublishers.com/article/Download/ACC-069).
 
