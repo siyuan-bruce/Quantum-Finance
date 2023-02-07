@@ -105,7 +105,7 @@ Some papers are conducted by many institutions together, and we can only include
 - **[2021]** **"Public-Key Quantum Money with a Classical Bank."** (O. Shmueli) [Tel Aviv University], [STOC 2022: Proceedings of the 54th Annual ACM SIGACT Symposium on Theory of Computing](https://dl.acm.org/doi/pdf/10.1145/3519935.3519952).
 - **[2021]** **"Quantum money from quaternion algebras."** (Kane, Daniel M., Shahed Sharif, and Alice Silverberg.) [UCSD, California State University, University of California, Irvine], [arXiv](https://arxiv.org/pdf/2109.12643).
 - **[2022]** **"Publicly verifiable quantum money from random lattices."** (A. B. Khesin, J. Z. Lu, and P. W. Shor)[MIT, Harvard], [arXiv](https://arxiv.org/pdf/2207.13135).
-
+- **[2022]** **"Another Round of Breaking and Making Quantum Money: How to Not Build It from Lattices, and More."** (Montgomery, Hart, Jiahui Liu, and Mark Zhandry.)[UTA, Linux & Fujitsu, NTT], [arXiv](https://arxiv.org/abs/2211.11994).   
 ---
 
 ### **Others**
