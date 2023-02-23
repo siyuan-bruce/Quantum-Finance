@@ -23,6 +23,7 @@ Some papers are conducted by many institutions together, and we can only include
 - **[2018]** **"Quantum computational finance: quantum algorithm for portfolio optimization."** (P. Rebentrost and S. Lloyd) [CQT - NUS, MIT], [arXiv](https://arXiv.org/pdf/1811.03975).
   - First to present a quantum algorithm for portfolio optimization
   - Gate-based quantum computer
+- **[2019]** **"Quantum-inspired algorithms in practice."** (Arrazola, J. M., Delgado, A., Bardhan, B. R., & Lloyd, S.)[arXiv](https://arxiv.org/abs/1905.10415)
 - **[2019]** **"Reverse Quantum Annealing Approach to Portfolio Optimization Problems."** (D. Venturelli and A. Kondratyev) [USRA, Standard Chartered Bank], [Quantum Machine Intelligence](https://link.springer.com/article/10.1007/s42484-019-00001-w).
   - investigate a hybrid quantum-classical solution method to the mean-variance portfolio optimization problems
 - **[2019]** **"Quantum Algorithms for Portfolio Optimization."** (I. Kerenidis, A. Prakash, and D. Szilágyi) [CNRS], [Proceedings of the 1st ACM Conference on Advances in Financial Technologies](https://dl.acm.org/doi/pdf/10.1145/3318041.3355465).
@@ -43,7 +44,7 @@ Some papers are conducted by many institutions together, and we can only include
   - Gate-based quantum computer
 - **[2022]** **"Constrained Quantum Optimization for Extractive Summarization on a Trapped-ion Quantum Computer."** (P. Niroula et al.) [JP Morgan Chase Bank, University of Maryland], [Scientific Reports](https://www.nature.com/articles/s41598-022-20853-w).
 - **[2022]** **A Quantum Online Portfolio Optimization Algorithm."** (D. Lim and P. Rebentrost) [CQT - NUS], [arXiv](https://arXiv.org/pdf/2208.14749).
-- 
+
   <!-- - give a sampling version of an existing classical online portfolio optimization algorithm while using a sampling procedure to reduce transaction costs the most by only investing one asset at each time point
   - The updating strategy “Erroneous exponentiated gradient update” needs an inner product process which can be speeded by quantum computing techniques. -->
   <!-- - Limitation: the updating strategy is based on single-asset price without considering potential risks and correlations between assets. -->
