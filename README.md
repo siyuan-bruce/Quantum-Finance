@@ -13,11 +13,11 @@ Some papers are conducted by many institutions together, and we can only include
   - [**Risk Management**](#risk-management)
   - [**Blockchain**](#blockchain)
   - [**Quantum Money**](#quantum-money)
+  - [Quantum Inspired Algorithm (Norm-Sampling)](#quantum-inspired-algorithm-norm-sampling)
   - [**Others**](#others)
     - [**Predicting Financial Crashes**](#predicting-financial-crashes)
     - [**Transaction Settlement**](#transaction-settlement)
     - [**Quantum Accounting**](#quantum-accounting)
-    - [Quantum Inspired Algorithm (Norm-Sampling)](#quantum-inspired-algorithm-norm-sampling)
 ---
 
 ### **Portfolio Optimization**
@@ -110,6 +110,15 @@ Some papers are conducted by many institutions together, and we can only include
 - **[2022]** **"Another Round of Breaking and Making Quantum Money: How to Not Build It from Lattices, and More."** (Montgomery, Hart, Jiahui Liu, and Mark Zhandry.)[UTA, Linux & Fujitsu, NTT], [arXiv](https://arxiv.org/abs/2211.11994).   
 ---
 
+### Quantum Inspired Algorithm (Norm-Sampling)
+- **[2018] “A quantum-inspired classical algorithm for recommendation systems.”** (Ewin Tang) [arXiv](https://arxiv.org/pdf/1807.04271.pdf).
+- **[2019] “Quantum-inspired algorithms in practice.”** (Juan Miguel Arrazola, Alain Delgado, Bhaskar Roy Bardhan, Seth Lloyd) [arXiv](https://arxiv.org/abs/1905.10415).
+- **[2019] “A quantum-inspired classical algorithm for recommendation systems using the L2-norm.”** (Ewin Tang)** [ACM Digital Library](https://dl.acm.org/doi/10.1145/3313276.3316310).
+- **[2019] “Faster Quantum-inspired Algorithms for Solving Linear Systems.”** (Changpeng Shao, Ashley Montanaro) [ACM Digital Library](https://dl.acm.org/doi/10.1145/3520141)
+- **[2021] “Quantum-inspired algorithms for multivariate analysis: from classical to quantum and back.”** (Juan José García-Ripoll) [Quantum Journal](https://quantum-journal.org/papers/q-2021-04-15-431/)
+- **[2020] “Quantum Algorithms for Machine Learning and Optimization.”** (Sangeetha P; Prameela Kumari) [IEEE](https://ieeexplore.ieee.org/document/9315301).
+
+---
 ### **Others**
 #### **Predicting Financial Crashes**
 -  **[2019]** **"Forecasting financial crashes with quantum computing."** (R. Orus, S. Mugel, and E. Lizaso) [Multiverse Computing, etc.], [Physical Review A](https://link.aps.org/pdf/10.1103/PhysRevA.99.060301)
@@ -124,10 +133,3 @@ Some papers are conducted by many institutions together, and we can only include
 - **[2022]** **"Entropy, Double Entry Accounting and Quantum Entanglement."** (J. C. Fellingham, H. Lin, and D. Schroeder) [Fisher College of Business, The Ohio State University], [Foundations and Trends® in Accounting](https://www.nowpublishers.com/article/Download/ACC-069).
 
 
-#### Quantum Inspired Algorithm (Norm-Sampling)
-- **[2018] “A quantum-inspired classical algorithm for recommendation systems.”** (Ewin Tang) [arXiv](https://arxiv.org/pdf/1807.04271.pdf).
-- **[2019] “Quantum-inspired algorithms in practice.”** (Juan Miguel Arrazola, Alain Delgado, Bhaskar Roy Bardhan, Seth Lloyd) [arXiv](https://arxiv.org/abs/1905.10415).
-- **[2019] “A quantum-inspired classical algorithm for recommendation systems using the L2-norm.”** (Ewin Tang)** [ACM Digital Library](https://dl.acm.org/doi/10.1145/3313276.3316310).
-- **[2019] “Faster Quantum-inspired Algorithms for Solving Linear Systems.”** (Changpeng Shao, Ashley Montanaro) [ACM Digital Library](https://dl.acm.org/doi/10.1145/3520141)
-- **[2021] “Quantum-inspired algorithms for multivariate analysis: from classical to quantum and back.”** (Juan José García-Ripoll) [Quantum Journal](https://quantum-journal.org/papers/q-2021-04-15-431/)
-- **[2020] “Quantum Algorithms for Machine Learning and Optimization.”** (Sangeetha P; Prameela Kumari) [IEEE](https://ieeexplore.ieee.org/document/9315301).
