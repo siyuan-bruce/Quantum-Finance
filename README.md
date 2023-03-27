@@ -125,9 +125,9 @@ Some papers are conducted by many institutions together, and we can only include
 
 
 #### Quantum Inspired Algorithm (Norm-Sampling)
-- **[2018] “A quantum-inspired classical algorithm for recommendation systems.”** (A. Gupta et al.) [arXiv](https://arxiv.org/pdf/1807.04271.pdf).
-- **[2019] “Quantum-inspired algorithms in practice.”** (M. Benedetti et al.) [arXiv](https://arxiv.org/abs/1905.10415).
-- **[2019] “A quantum-inspired classical algorithm for recommendation systems using the L2-norm.”** (A. Gupta et al.)** [ACM Digital Library](https://dl.acm.org/doi/10.1145/3313276.3316310).
-- **[2019] “Faster Quantum-inspired Algorithms for Solving Linear Systems.”** (N.-H. Chia et al.) [ACM Digital Library](https://dl.acm.org/doi/10.1145/3520141)
-- **[2021] “Quantum-inspired algorithms for multivariate analysis: from classical to quantum and back.”** (A. Mari et al.) [Quantum Journal](https://quantum-journal.org/papers/q-2021-04-15-431/)
-- **[2020] “Quantum Algorithms for Machine Learning and Optimization.”** (S. Lloyd et al.) [IEEE](https://ieeexplore.ieee.org/document/9315301).
+- **[2018] “A quantum-inspired classical algorithm for recommendation systems.”** (Ewin Tang) [arXiv](https://arxiv.org/pdf/1807.04271.pdf).
+- **[2019] “Quantum-inspired algorithms in practice.”** (Juan Miguel Arrazola, Alain Delgado, Bhaskar Roy Bardhan, Seth Lloyd) [arXiv](https://arxiv.org/abs/1905.10415).
+- **[2019] “A quantum-inspired classical algorithm for recommendation systems using the L2-norm.”** (Ewin Tang)** [ACM Digital Library](https://dl.acm.org/doi/10.1145/3313276.3316310).
+- **[2019] “Faster Quantum-inspired Algorithms for Solving Linear Systems.”** (Changpeng Shao, Ashley Montanaro) [ACM Digital Library](https://dl.acm.org/doi/10.1145/3520141)
+- **[2021] “Quantum-inspired algorithms for multivariate analysis: from classical to quantum and back.”** (Juan José García-Ripoll) [Quantum Journal](https://quantum-journal.org/papers/q-2021-04-15-431/)
+- **[2020] “Quantum Algorithms for Machine Learning and Optimization.”** (Sangeetha P; Prameela Kumari) [IEEE](https://ieeexplore.ieee.org/document/9315301).
