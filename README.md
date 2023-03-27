@@ -17,6 +17,7 @@ Some papers are conducted by many institutions together, and we can only include
     - [**Predicting Financial Crashes**](#predicting-financial-crashes)
     - [**Transaction Settlement**](#transaction-settlement)
     - [**Quantum Accounting**](#quantum-accounting)
+    - [Quantum Inspired Algorithm (Norm-Sampling)](#quantum-inspired-algorithm-norm-sampling)
 ---
 
 ### **Portfolio Optimization**
@@ -122,3 +123,11 @@ Some papers are conducted by many institutions together, and we can only include
 #### **Quantum Accounting**
 - **[2022]** **"Entropy, Double Entry Accounting and Quantum Entanglement."** (J. C. Fellingham, H. Lin, and D. Schroeder) [Fisher College of Business, The Ohio State University], [Foundations and Trends® in Accounting](https://www.nowpublishers.com/article/Download/ACC-069).
 
+
+#### Quantum Inspired Algorithm (Norm-Sampling)
+- **[2018] “A quantum-inspired classical algorithm for recommendation systems.”** (A. Gupta et al.) [arXiv](https://arxiv.org/pdf/1807.04271.pdf).
+- **[2019] “Quantum-inspired algorithms in practice.”** (M. Benedetti et al.) [arXiv](https://arxiv.org/abs/1905.10415).
+- **[2019] “A quantum-inspired classical algorithm for recommendation systems using the L2-norm.”** (A. Gupta et al.)** [ACM Digital Library](https://dl.acm.org/doi/10.1145/3313276.3316310).
+- **[2019] “Faster Quantum-inspired Algorithms for Solving Linear Systems.”** (N.-H. Chia et al.) [ACM Digital Library](https://dl.acm.org/doi/10.1145/3520141)
+- **[2021] “Quantum-inspired algorithms for multivariate analysis: from classical to quantum and back.”** (A. Mari et al.) [Quantum Journal](https://quantum-journal.org/papers/q-2021-04-15-431/)
+- **[2020] “Quantum Algorithms for Machine Learning and Optimization.”** (S. Lloyd et al.) [IEEE](https://ieeexplore.ieee.org/document/9315301).
