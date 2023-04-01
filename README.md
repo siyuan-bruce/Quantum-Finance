@@ -115,8 +115,12 @@ Some papers are conducted by many institutions together, and we can only include
 - **[2019] “Quantum-inspired algorithms in practice.”** (Juan Miguel Arrazola, Alain Delgado, Bhaskar Roy Bardhan, Seth Lloyd) [arXiv](https://arxiv.org/abs/1905.10415).
 - **[2019] “A quantum-inspired classical algorithm for recommendation systems using the L2-norm.”** (Ewin Tang)** [ACM Digital Library](https://dl.acm.org/doi/10.1145/3313276.3316310).
 - **[2019] “Faster Quantum-inspired Algorithms for Solving Linear Systems.”** (Changpeng Shao, Ashley Montanaro) [ACM Digital Library](https://dl.acm.org/doi/10.1145/3520141)
-- **[2021] “Quantum-inspired algorithms for multivariate analysis: from classical to quantum and back.”** (Juan José García-Ripoll) [Quantum Journal](https://quantum-journal.org/papers/q-2021-04-15-431/)
 - **[2020] “Quantum Algorithms for Machine Learning and Optimization.”** (Sangeetha P; Prameela Kumari) [IEEE](https://ieeexplore.ieee.org/document/9315301).
+- **[2021] “Quantum-inspired algorithms for multivariate analysis: from classical to quantum and back.”** (Juan José García-Ripoll) [Quantum Journal](https://quantum-journal.org/papers/q-2021-04-15-431/)
+- **[2021] “Quantum-inspired support vector machine.”**  (Ding, C., Bao, T. Y., & Huang, H. L. ) [IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/iel7/5962385/9966944/09451546.pdf)
+- **[2022] “Sampling-based sublinear low-rank matrix arithmetic framework for dequantizing quantum machine learning.”** (Chia, N. H., Gilyén, A. P., Li, T., Lin, H. H., Tang, E., & Wang, C.) [Journal of the ACM](https://dl.acm.org/doi/full/10.1145/3549524)
+- **[2022] "An improved quantum-inspired algorithm for linear regression."** (Gilyén, A., Song, Z., & Tang, E. ) [Quantum](https://quantum-journal.org/papers/q-2022-06-30-754/)
+- **[2023] "A CS guide to the quantum singular value transformation."**  (Tang, E., & Tian, K.) [arXiv](https://arxiv.org/abs/2302.14324)
 
 ---
 ### **Others**
