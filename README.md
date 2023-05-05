@@ -103,11 +103,14 @@ Some papers are conducted by many institutions together, and we can only include
 - **[2018]** **"Experimental preparation and verification of quantum money."** (Guan, Jian-Yu, Juan Miguel Arrazola, Ryan Amiri, Weijun Zhang, Hao Li, Lixing You, Zhen Wang, Qiang Zhang, and Jian-Wei Pan.) [USTC, CQT], [arXiv](https://arxiv.org/pdf/1709.05882.pdf).
 - **[2018]** **"Experimental investigation of practical unforgeable quantum money."** (Bozzio, Mathieu, Adeline Orieux, Luis Trigo Vidarte, Isabelle Zaquine, Iordanis Kerenidis, and Eleni Diamanti.) [CNRS, CQT] [npj Quantum Information](https://www.nature.com/articles/s41534-018-0058-2).
 - **[2019]** **"Practically feasible robust quantum money with classical verification."** (Kumar, Niraj) [University of Edinburgh], [Cryptography](https://www.mdpi.com/2410-387X/3/4/26/htm).
+- **[2019]** **"Gentle measurement of quantum states and differential privacy."** (Aaronson, Scott, and Rothblum, Guy N.) [Proceedings of the 51st Annual ACM SIGACT Symposium on Theory of Computing](https://dl.acm.org/doi/10.1145/3313276.3316369).
 - **[2020]** **"A quantum money solution to the blockchain scalability problem."** (Coladangelo, Andrea, and Or Sattath) [Caltech, Ben-Gurion University] [Quantum](https://quantum-journal.org/papers/q-2020-07-16-297/).
+- **[2020]** **"One-shot signatures and applications to hybrid quantum/classical authentication."** (Ryan Amos, Marios Georgiou, Aggelos Kiayias, Mark Zhandry) [Princetion U, City U of New York, U of Edinburgh, etc] [Quantum](https://quantum-journal.org/papers/q-2020-07-16-297/).
 - **[2021]** **"Public-Key Quantum Money with a Classical Bank."** (O. Shmueli) [Tel Aviv University], [STOC 2022: Proceedings of the 54th Annual ACM SIGACT Symposium on Theory of Computing](https://dl.acm.org/doi/pdf/10.1145/3519935.3519952).
 - **[2021]** **"Quantum money from quaternion algebras."** (Kane, Daniel M., Shahed Sharif, and Alice Silverberg.) [UCSD, California State University, University of California, Irvine], [arXiv](https://arxiv.org/pdf/2109.12643).
 - **[2022]** **"Publicly verifiable quantum money from random lattices."** (A. B. Khesin, J. Z. Lu, and P. W. Shor)[MIT, Harvard], [arXiv](https://arxiv.org/pdf/2207.13135).
 - **[2022]** **"Another Round of Breaking and Making Quantum Money: How to Not Build It from Lattices, and More."** (Montgomery, Hart, Jiahui Liu, and Mark Zhandry.)[UTA, Linux & Fujitsu, NTT], [arXiv](https://arxiv.org/abs/2211.11994).   
+- **[2023]** **"Quantum tokens for digital signatures."** (Ben-David, Shalev, and Sattath, Or) [Quantum 7](https://quantum-journal.org/papers/q-2023-01-19-901/pdf/).
 ---
 
 ### Quantum Inspired Algorithm (Norm-Sampling)
